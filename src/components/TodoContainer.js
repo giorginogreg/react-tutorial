@@ -10,6 +10,16 @@ class TodoContainer extends React.Component {
                 id: 1,
                 title: "Rilascio in produzione",
                 completed: true,
+            },
+            {
+                id: 2,
+                title: "Dockerizzazione",
+                completed: true,
+            },
+            {
+                id: 3,
+                title: "Vedere felice il cliente",
+                completed: true,
             }
         ]
     };
